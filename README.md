@@ -1,4 +1,4 @@
-## Instructions on how to build and evaluate victory prediction models for Dota 2
+## Instructions on how to build, evaluate and explain victory prediction models for Dota 2
 
 <a href="https://blog.dota2.com/" target="_blank"><img src="https://live.staticflickr.com/3/31426543551_75acf3a4f9_b.jpg" alt="Dota 2 game" title="Dota 2 game" width=225 height=125 align="left"></a>
 
