@@ -89,22 +89,22 @@ In the **3 - Logistic Regression** directory:
 3.  Place the model features files that you extracted on the following locations depending on where you are running this code.
 
 
-*   Running on a local machine:
+ *   Running on a local machine:
 
-  Place the *model_pre_match_features* directory at the same level as this instructional notebook (i.e., one level above of the directories with the scripts for each algorithm). In this case, you will need to uncomment the lines of code where the data is read (this will be indicated in the code).
-  
-  Note that you are free to change the location of the model feature directory and sub-directories as long as you properly adjust the references to those locations in the code (this will also be indicated in the code).
+     Place the *model_pre_match_features* directory at the same level as this instructional notebook (i.e., one level above of the directories with the scripts for each algorithm). In this case, you will need to uncomment the lines of code where the data is read (this will be indicated in the code).
+
+     Note that you are free to change the location of the model feature directory and sub-directories as long as you properly adjust the references to those locations in the code (this will also be indicated in the code).
 
 
-*   Running on Google Colab:
-  
-  Upload the model features to the Google Colab session according to the type of match you are using. If you want to run the scrips for the regular matches (either XGBoost, Random Forest, or Logistic Regression), please upload the *dota2_regular-new_features.csv* feature file. If you want to run the scripts for the score blowout matches, upload the *dota2_score_blowout_features.csv* feature file. If you want to run the scripts for the time blowout matches, upload the *dota2_time_blowout_features.csv* feature file. 
+ *   Running on Google Colab:
 
-  You should use the upload button, located at the Google Colab menu on the top left (note that the notebook must connect to a runtime for you to be able to manage files):
+     Upload the model features to the Google Colab session according to the type of match you are using. If you want to run the scrips for the regular matches (either XGBoost, Random Forest, or Logistic Regression), please upload the *dota2_regular-new_features.csv* feature file. If you want to run the scripts for the score blowout matches, upload the *dota2_score_blowout_features.csv* feature file. If you want to run the scripts for the time blowout matches, upload the *dota2_time_blowout_features.csv* feature file. 
 
-  ![Upload button](https://drive.google.com/uc?export=view&id=1_yDESFJnEOBTd4LQZ9PQV1d_kkRM6Ma3)
+     You should use the upload button, located at the Google Colab menu on the top left (note that the notebook must connect to a runtime for you to be able to manage files):
 
-  Note that you will only need to upload the files to the notebook that contains the script you want to run. In the beginning of the notebook with the script, there is an indication of which file(s) you need to upload to that notebook. Also note that, if you close the notebook (i.e., the Google Colab session), you will need to re-upload the file(s).
+     ![Upload button](https://drive.google.com/uc?export=view&id=1_yDESFJnEOBTd4LQZ9PQV1d_kkRM6Ma3)
+
+     Note that you will only need to upload the files to the notebook that contains the script you want to run. In the beginning of the notebook with the script, there is an indication of which file(s) you need to upload to that notebook. Also note that, if you close the notebook (i.e., the Google Colab session), you will need to re-upload the file(s).
 
 
 4.   Run the notebook with the script
