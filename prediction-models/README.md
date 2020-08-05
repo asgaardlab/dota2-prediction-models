@@ -82,7 +82,7 @@ In the **3 - Logistic Regression** directory:
 
 ## Step-by-step to run the scritps
 
-1.   Download the model features from this repository: http://doi.org/10.5281/zenodo.3890315. The features for each of the three types of matches are available in the *model_pre_match_features.zip* file.
+1.   Download the model features from [this zenodo repository](http://doi.org/10.5281/zenodo.3890315). The features for each of the three types of matches are available in the *model_pre_match_features.zip* file.
 
 2.   Extract the contents from the *model_pre_match_features.zip* file and keep the structure and names of its sub-directories and respective files.
 
