@@ -1,4 +1,4 @@
-## Instructions on how to build and evaluate victory prediction models for Dota 2 - Replication package
+## Instructions on how to build and evaluate victory prediction models for Dota 2
 
 <a href="https://blog.dota2.com/" target="_blank"><img src="https://live.staticflickr.com/3/31426543551_75acf3a4f9_b.jpg" alt="Dota 2 game" title="Dota 2 game" width=225 height=125 align="left"></a>
 
@@ -10,7 +10,7 @@ This notebook contains general instructions on how to run the scripts to build, 
 </br>
 </br>
 
-For more details on how we collected the data and extracted the model features, please check our Dota 2 paper:</br> 
+For more details on how we collected the data and extracted the model features, please check our Dota 2 paper accepted at the 16th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE 2020):</br> 
 <a href="https://markosviggiato.github.io/resources/Markos_AIIDE_20.pdf" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="Dota 2 paper" title="Dota 2 paper" width=25 height=25></a>
 
 The used dataset is available in the following zenodo repository: </br> <a href="http://doi.org/10.5281/zenodo.3890315" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Database-icon.svg" alt="Dota 2 dataset" title="Dota 2 dataset" width=25 height=25></a>
