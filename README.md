@@ -5,6 +5,8 @@ This notebook contains general instructions on how to run the scripts to build, 
 
 For more details on how we performed the data preparation and extracted the model features, please check our [Dota 2 paper](https://markosviggiato.github.io/resources/Markos_AIIDE_20.pdf).
 
+The used dataset is available in the following zenodo repository: [dataset](http://doi.org/10.5281/zenodo.3890315).
+
 ---
 
 ## Dependencies
