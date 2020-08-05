@@ -112,7 +112,7 @@ This script contains the XGBoost implementation we used in the paper, which is t
 
 We perform a grid search to tune the hyperparameters of the XGBoost model. The grid of values that we use can be adjusted to incorporate more values.
 
-Finally, the script to apply the SHAP technique generates two types of plots (summary plots and barplots), which will be available for download in the Google Colab session. Feel free to save those plots in a location tthat you desire.
+Finally, the script to apply the SHAP technique generates two types of plots (summary plots and barplots), which will be available for download in the Google Colab session. Feel free to save those plots in a location that you desire.
 
 
 ## General Questions
