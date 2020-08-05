@@ -76,9 +76,9 @@ The following dependencies are required to run the scripts on your local machine
  The following directories contains the scripts to build the prediction models. 
 
 
- - *prediction-models*: contains the scripts to read the model features, build and evaluate prediction models using three algorithms: XGBoost, Random Forest, and Logistic Regression. Note that, for each algorithm, there are 3 different scripts, one for each data group we adopted in our study: regular matches, time blowout matches, and score blowout matches.
+ - [prediction-models](/prediction-models/): contains the scripts to read the model features, build and evaluate prediction models using three algorithms: XGBoost, Random Forest, and Logistic Regression. Note that, for each algorithm, there are 3 different scripts, one for each data group we adopted in our study: regular matches, time blowout matches, and score blowout matches.
  
- - *prediction-models-explanation-SHAP*: contains the scripts to apply the SHAP values technique to explain victory predictions for Dota 2 matches.
+ - [prediction-models-explanation-SHAP](/prediction-models-explanation-SHAP/): contains the scripts to apply the SHAP values technique to explain victory predictions for Dota 2 matches.
  
  ## Dataset
  
